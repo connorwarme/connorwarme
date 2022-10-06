@@ -6,8 +6,9 @@ I'm open to work! I'd love to explore opportunities for software engineering and
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
-🌱 Currently learning testing, with Jest, as I create Battleship!  
-🏔️ Mountain Adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
+🌱 Currently learning testing, with Jest  
+🧑‍💻 In development: Battleship!  
+🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
 
