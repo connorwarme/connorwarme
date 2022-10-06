@@ -16,7 +16,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
   
 <table>
   <tr>
-    <td align="center" height="300" width="400">
+    <td align="center" height="250" width="400">
       <a href="https://connorwarme.github.io/toDo/" target="_blank">
       <img
         src="https://github.com/connorwarme/toDo/blob/main/screenshots/to-do.png?raw=true"
@@ -27,7 +27,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       </a>
       <br /><strong><a href="https://connorwarme.github.io/toDo/" target="_blank">Checkmate</a></strong>
     </td>
-    <td align="center" height="300" width="400">
+    <td align="center" height="250" width="400">
       <a href="https://connorwarme.github.io/weather/" target="_blank">
       <img
         src="https://github.com/connorwarme/weather/blob/main/screenshots/la.png?raw=true 'preview'"
@@ -40,7 +40,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       <br/>
       <br/><strong><a href="https://connorwarme.github.io/weather/" target="_blank">WeatherWatch</a></strong>
     </td>
-    <td align="center" height="300" width="400">
+    <td align="center" height="250" width="400">
       <a href="https://connorwarme.github.io/tictactoe/" target="_blank">
       <img
         src="https://github.com/connorwarme/tictactoe/blob/main/Screenshot%202022-10-05%20at%2018-26-57%20TicTacToe.png?raw=true"
@@ -58,7 +58,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -67,7 +67,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>HTML5</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -76,7 +76,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -85,7 +85,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -94,7 +94,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
@@ -103,7 +103,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
