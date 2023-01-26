@@ -6,8 +6,8 @@ I'm open to work! I'd love to explore opportunities for software engineering and
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
-🌱 Currently learning backend with Node.js!
-✅ Just completed MongoDB's introductory course (12 hours)
+🌱 Currently learning backend with Node.js!  
+✅ Just completed MongoDB's introductory course (12 hours)  
 🧑‍💻 In development: a mini message board  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
@@ -62,7 +62,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
   <tr>
     <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
         alt="JavaScript"
@@ -71,7 +71,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
     <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"
         width="48"
         height="48"
         alt="React"
@@ -80,7 +80,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
         <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg"
         width="48"
         height="48"
         alt="Jest"
@@ -89,7 +89,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
         <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
         width="48"
         height="48"
         alt="Git"
@@ -98,16 +98,16 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
         <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
         alt="Npm"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>npm</strong>
     </td>
       <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webpack/webpack-original.svg"
         width="48"
         height="48"
         alt="Webpack"
@@ -116,7 +116,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
     <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"
         width="48"
         height="48"
         alt="HTML"
@@ -125,7 +125,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
     </td>
     <td align="center" height="90" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"
         width="48"
         height="48"
         alt="CSS3"
