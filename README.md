@@ -6,8 +6,9 @@ I'm open to work! I'd love to explore opportunities for software engineering and
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
-🌱 Currently learning React! And implementing TDD via React Testing Library  
-🧑‍💻 In development: a Shopping Cart app  
+🌱 Currently learning backend with Node.js!
+✅ Just completed MongoDB's introductory course (12 hours)
+🧑‍💻 In development: a mini message board  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
@@ -132,4 +133,33 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       <br /><strong>CSS3</strong>
     </td>
   <tr>
+  <tr>
+    <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+        <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+  </tr>
 </table>
