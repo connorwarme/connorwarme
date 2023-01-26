@@ -29,6 +29,19 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       <br /><strong><a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a></strong>
     </td>
     <td align="center" height="250" width="400">
+      <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">
+      <img
+        src="https://github.com/connorwarme/shopping-cart/blob/main/screenshots/home-full.png?raw=true 'preview'"
+        width="400"
+        height="100"
+        alt="Shopping Cart"
+      />
+      </a>
+      <br />
+      <br/>
+      <br/><strong><a href="https://connorwarme.github.io/shopping-cart/" target="_blank">Shopping Cart</a></strong>
+    </td>
+    <td align="center" height="250" width="400">
       <a href="https://connorwarme.github.io/toDo/" target="_blank">
       <img
         src="https://github.com/connorwarme/toDo/blob/main/screenshots/to-do.png?raw=true"
@@ -39,19 +52,6 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       </a>
       <br/>
       <br /><strong><a href="https://connorwarme.github.io/toDo/" target="_blank">Checkmate</a></strong>
-    </td>
-    <td align="center" height="250" width="400">
-      <a href="https://connorwarme.github.io/weather/" target="_blank">
-      <img
-        src="https://github.com/connorwarme/weather/blob/main/screenshots/la.png?raw=true 'preview'"
-        width="400"
-        height="100"
-        alt="Weather App"
-      />
-      </a>
-      <br />
-      <br/>
-      <br/><strong><a href="https://connorwarme.github.io/weather/" target="_blank">WeatherWatch</a></strong>
     </td>
   <tr>
 </table>  
