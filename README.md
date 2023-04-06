@@ -2,12 +2,12 @@
 
 I'm a self-taught developer, currently learning full-stack JavaScript via The Odin Project.  
   
-I'm open to work! I'd love to explore opportunities for software engineering and development.  
+I'm looking for work! I'm exploring opportunities for software engineering and development.  
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
 🌱 Currently learning backend with Node.js!  
-✅ Just completed MongoDB's introductory course (12 hours)  
+✅ Just completed Amity's [website](https://amitywarme.com)! As a pro athlete and registered dietitian, Amity (my wife) wanted a professional site.  
 🧑‍💻 In development: a mini message board  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
@@ -15,6 +15,13 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 
 # 🛠️ Recent Projects  
   
+### <a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a>  
+<img
+  src="https://github.com/connorwarme/battleship/blob/main/screenshots/battle.png?raw=true"
+  alt="Battleship"
+/>  
+* <a href="https://github.com/connorwarme/battleship/" target="_blank">Repo</a>  
+* 
 <table>
   <tr>
     <td align="center" height="250" width="400">
@@ -26,7 +33,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
         alt="Battleship"
       />
       </a>
-      <br /><strong><a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a></strong>
+      <br /><strong></strong>
     </td>
     <td align="center" height="250" width="400">
       <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">
