@@ -24,7 +24,9 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 * build a website for Amity - pro athlete and registered dietician (RDN)
 * includes a photo gallery!  
 * includes a blog section (recipies, podcasts, stories and more)
+* responsive design w/ cross-browser compatibility
 * built with Astro
+* <a href="https://github.com/connorwarme/pro-site" target="_blank">View repository</a>  
   
 ## <a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a>  
 <img
@@ -34,17 +36,18 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 ### Highlights  
 * browser playable version of the classic game, with responsive design (mobile friendly)  
 * built with Test Driven Development principles (using Jest)  
-* improved AI, to provide a more competitive experience
-* View <a href="https://github.com/connorwarme/battleship/" target="_blank">Repository</a>  
+* improved AI, to provide a more competitive experience  
+* <a href="https://github.com/connorwarme/battleship/" target="_blank">View repository</a>  
   
 ## <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">Shopping Cart</a>  
-<img 
+<img  
   src="https://github.com/connorwarme/shopping-cart/blob/main/screenshots/cart-full.png?raw=true 'preview'"
-  alt="Shopping Cart"
+  alt="Shopping Cart"  
 />  
 ### Highlights  
-* build a site with shopping cart functionality - add products, remove, cart total, etc.
+* build a site with shopping cart functionality - add products, remove, cart total, etc.  
 * built with React, w/ TDD principles (using Jest)   
+* <a href="https://github.com/connorwarme/shopping-cart" target="_blank">View repository</a>  
   
 # 🧰 Technologies & Tools  
 
