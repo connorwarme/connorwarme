@@ -36,7 +36,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 ### Highlights  
 * browser playable version of the classic game, with responsive design (mobile friendly)  
 * built with Test Driven Development principles (using Jest)  
-* improved AI, to provide a more competitive experience  
+* improved AI, providing a more competitive experience  
 * <a href="https://github.com/connorwarme/battleship/" target="_blank">View repository</a>  
   
 ## <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">Shopping Cart</a>  
@@ -145,7 +145,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
       />
       <br /><strong>MongoDB</strong>
     </td>
-        <td align="center" height="90" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg"
         width="48"
@@ -153,6 +153,15 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
         alt="Express"
       />
       <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/withastro/docs/blob/main/public/favicon.svg"
+        width="48"
+        height="48"
+        alt="Astro"
+      />
+      <br /><strong>Astro</strong>
     </td>
   </tr>
 </table>
