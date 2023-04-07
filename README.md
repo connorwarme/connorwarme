@@ -15,53 +15,36 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 
 # 🛠️ Recent Projects  
   
-### <a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a>  
+## <a href="https://amitywarme.com" target="_blank">Amity Warme Pro Site</a>  
+<img 
+  src="https://github.com/connorwarme/pro-site/blob/main/src/images/screenshots/pro-home.png?raw=true 'preview'"
+  alt="Pro Site"
+/>  
+### Highlights  
+* build a website for Amity - pro athlete and registered dietician (RDN)
+* includes a photo gallery!  
+* includes a blog section (recipies, podcasts, stories and more)
+* built with Astro
+  
+## <a href="https://connorwarme.github.io/battleship/" target="_blank">Battleship</a>  
 <img
   src="https://github.com/connorwarme/battleship/blob/main/screenshots/battle.png?raw=true"
   alt="Battleship"
 />  
-* <a href="https://github.com/connorwarme/battleship/" target="_blank">Repo</a>  
-* 
-<table>
-  <tr>
-    <td align="center" height="250" width="400">
-      <a href="https://connorwarme.github.io/battleship/" target="_blank">
-      <img
-        src="https://github.com/connorwarme/battleship/blob/main/screenshots/battle.png?raw=true"
-        width="300"
-        height="150"
-        alt="Battleship"
-      />
-      </a>
-      <br /><strong></strong>
-    </td>
-    <td align="center" height="250" width="400">
-      <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">
-      <img
-        src="https://github.com/connorwarme/shopping-cart/blob/main/screenshots/home-full.png?raw=true 'preview'"
-        width="400"
-        height="100"
-        alt="Shopping Cart"
-      />
-      </a>
-      <br />
-      <br/>
-      <br/><strong><a href="https://connorwarme.github.io/shopping-cart/" target="_blank">Shopping Cart</a></strong>
-    </td>
-    <td align="center" height="250" width="400">
-      <a href="https://connorwarme.github.io/toDo/" target="_blank">
-      <img
-        src="https://github.com/connorwarme/toDo/blob/main/screenshots/to-do.png?raw=true"
-        width="300"
-        height="126"
-        alt="To-Do"
-      />
-      </a>
-      <br/>
-      <br /><strong><a href="https://connorwarme.github.io/toDo/" target="_blank">Checkmate</a></strong>
-    </td>
-  <tr>
-</table>  
+### Highlights  
+* browser playable version of the classic game, with responsive design (mobile friendly)  
+* built with Test Driven Development principles (using Jest)  
+* improved AI, to provide a more competitive experience
+* View <a href="https://github.com/connorwarme/battleship/" target="_blank">Repository</a>  
+  
+## <a href="https://connorwarme.github.io/shopping-cart/" target="_blank">Shopping Cart</a>  
+<img 
+  src="https://github.com/connorwarme/shopping-cart/blob/main/screenshots/cart-full.png?raw=true 'preview'"
+  alt="Shopping Cart"
+/>  
+### Highlights  
+* build a site with shopping cart functionality - add products, remove, cart total, etc.
+* built with React, w/ TDD principles (using Jest)   
   
 # 🧰 Technologies & Tools  
 
