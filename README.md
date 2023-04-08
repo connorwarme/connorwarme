@@ -8,7 +8,7 @@ My skills are a "work-in-progress" but I'm excited to continue my coding journey
 
 🌱 Currently learning backend with Node.js!  
 ✅ Just completed Amity's [website](https://amitywarme.com)! As a pro athlete and registered dietitian, Amity (my wife) wanted a professional site.  
-🧑‍💻 In development: a mini message board  
+🧑‍💻 In development: an inventory app (with Express and MongoDB)  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
