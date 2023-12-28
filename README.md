@@ -6,14 +6,28 @@ I'm looking for work! I'm exploring opportunities for software engineering and d
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
+✅ Just completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with React + Express w/ MongoDB.  
+🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
+🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
 🌱 Currently learning backend with Node.js!  
-✅ Just completed Amity's [website](https://amitywarme.com)! As a pro athlete and registered dietitian, Amity (my wife) wanted a professional site.  
-🧑‍💻 In development: a full-stack project, recreating a bunch of the functionality of facebook with a twist.  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
 
 # 🛠️ Recent Projects  
+
+## <a href="https://connorwarme.github.io/rop-lair/login" target="_blank">Rings of Power Fan Lair</a>  
+<img 
+  src="https://github.com/connorwarme/rop-lair/blob/main/public/screenshots/homeshort.png?raw=true 'preview'"
+  alt="Fan Lair"
+/>  
+### Highlights  
+* a social media app with a LOTR: Rings of Power theme - a full stack project!
+* authentication via Passport.js (local or oauth w/ Google), implemented with JWT
+* classic social media features: profile, homepage/timeline, posts (optional photos), comments, likes, etc.
+* responsive design w/ cross-browser compatibility
+* built with React + Express.js w/ MongoDB
+* <a href="https://github.com/connorwarme/rop-lair" target="_blank">View repository</a>  
   
 ## <a href="https://amitywarme.com" target="_blank">Amity Warme Pro Site</a>  
 <img 
