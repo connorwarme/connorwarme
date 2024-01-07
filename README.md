@@ -6,10 +6,10 @@ I'm looking for work! I'm exploring opportunities for software engineering and d
 
 My skills are a "work-in-progress" but I'm excited to continue my coding journey. I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
-✅ Just completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with React + Express w/ MongoDB.  
+✅ Just completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
 🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
-🌱 Currently learning backend with Node.js!  
+🌱 Currently refreshing on React and learning Redux!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
