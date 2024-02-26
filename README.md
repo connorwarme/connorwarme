@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Connor! 
 
-I'm a self-taught developer, currently learning full-stack JavaScript via The Odin Project.  
-  
-I'm looking for work! I'm exploring opportunities for software engineering and development.  
+I'm a self-taught developer and I'm looking for work! I'm exploring opportunities for software engineering and development.  
 
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
