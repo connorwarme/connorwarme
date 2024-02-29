@@ -4,8 +4,8 @@ I'm a self-taught developer and I'm looking for work! I'm exploring opportunitie
 
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
 
-✅ Just completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
+✅ Recently completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
 🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
 🌱 Currently learning Next.js!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
@@ -174,6 +174,15 @@ I enjoy building useful content, finding creative solutions, and implementing qu
         alt="Astro"
       />
       <br /><strong>Astro</strong>
+    </td>
+        <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
     </td>
   </tr>
 </table>
