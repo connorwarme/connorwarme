@@ -2,7 +2,9 @@
 
 I'm a self-taught developer and I'm looking for work! I'm exploring opportunities for software engineering and development.  
 
-I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.
+I'm a fixer. When I was 3, I took apart my bicycle (every nut and bolt) and then put it all back together again. I enjoy learning the nuances of how things work and the challenge of striving for improvement and optimization. My friends call me "Decon" because I'm always thinking about how "deconflict" any logistical issues and improve everyone's experience.  
+  
+I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.  
 
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
 ✅ Recently completed [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
