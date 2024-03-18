@@ -35,7 +35,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
   alt="Pro Site"
 />  
 ### Highlights  
-* build a website for Amity - pro athlete and registered dietician (RDN)
+* built a website for Amity - pro athlete and registered dietician (RDN)
 * includes a photo gallery!  
 * includes a blog section (recipes, podcasts, stories and more)
 * responsive design w/ cross-browser compatibility
