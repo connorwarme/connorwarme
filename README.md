@@ -6,7 +6,7 @@ I'm a fixer. When I was 3, I took apart my bicycle (every nut and bolt) and then
   
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.  
 
-✅ Recently completed my [website](https://connorwarme.github.io)!
+✅ Recently completed my [website](https://connorwarme.github.io)!  
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
 🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
 🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
