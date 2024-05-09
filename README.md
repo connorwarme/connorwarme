@@ -12,7 +12,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
 🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
 🌱 Currently learning SQL!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
-📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme-13c8"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
+📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
 
 # 🛠️ Recent Projects  
