@@ -10,7 +10,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
 🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
 🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
-🌱 Currently learning SQL!  
+🌱 Currently learning TypeScript!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
@@ -178,7 +178,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
       />
       <br /><strong>Astro</strong>
     </td>
-        <td align="center" height="90" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
         width="48"
@@ -187,8 +187,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
       />
       <br /><strong>Next.js</strong>
     </td>
-        </td>
-        <td align="center" height="90" width="108">
+    <td align="center" height="90" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg"
         width="48"
@@ -196,6 +195,15 @@ I enjoy building useful content, finding creative solutions, and implementing qu
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
     </td>
   </tr>
 </table>
