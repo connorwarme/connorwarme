@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Connor! 
 
-I'm a self-taught developer and I'm looking for work! I'm exploring opportunities for software engineering and development.  
+I'm a self-taught developer and I'm freelancing! I'm always on the lookout for new opportunities in software engineering and development.  
 
 I'm a fixer. When I was 3, I took apart my bicycle (every nut and bolt) and then put it all back together again. I enjoy learning the nuances of how things work and the challenge of striving for improvement and optimization. My friends call me "Decon" because I'm always thinking about how "deconflict" any logistical issues and improve everyone's experience.  
   
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.  
-
+  
+💻 In development: a project (database and UX/UI) for Quantum Technology, a helium and hydrogen company based in Squamish, BC.    
 ✅ Recently completed my [website](https://connorwarme.github.io)!  
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
-🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.  
-🧑‍💻 In development: updating resume, brushing up on skills, applying for jobs  
+🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.   
 🌱 Currently learning TypeScript!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
