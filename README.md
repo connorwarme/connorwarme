@@ -6,7 +6,7 @@ I'm a fixer. When I was 3, I took apart my bicycle (every nut and bolt) and then
   
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.  
   
-💻 In development: a project (database and UX/UI) for Quantum Technology, a helium and hydrogen company based in Squamish, BC.    
+💻 In development: a mobile application with React-Native for a client!    
 ✅ Recently completed my [website](https://connorwarme.github.io)!  
 🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
 🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.   
@@ -204,6 +204,15 @@ I enjoy building useful content, finding creative solutions, and implementing qu
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
+    </td>
+        <td align="center" height="90" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React-Native"
+      />
+      <br /><strong>React-Native</strong>
     </td>
   </tr>
 </table>
