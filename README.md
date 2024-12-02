@@ -204,15 +204,5 @@ I enjoy building useful content, finding creative solutions, and implementing qu
         alt="TypeScript"
       />
       <br /><strong>TypeScript</strong>
-    </td>
-        <td align="center" height="90" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React-Native"
-      />
-      <br /><strong>React-Native</strong>
-    </td>
   </tr>
 </table>
