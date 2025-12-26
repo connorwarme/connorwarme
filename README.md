@@ -6,11 +6,11 @@ I'm a fixer. When I was 3, I took apart my bicycle (every nut and bolt) and then
   
 I enjoy building useful content, finding creative solutions, and implementing quality design, while maintaining precision and attention to detail.  
   
-💻 In development: a mobile application with React-Native for a client!    
-✅ Recently completed my [website](https://connorwarme.github.io)!  
-🚀 Amity's [website](https://amitywarme.com)! Built a site with Astro for my wife, a pro athlete and registered dietitian.  
+💻 In development: a couple website projects!    
+✅ Recently completed mobile app: Corral - Social Calendar, check it out on iOS and Android app stores!   
+🚀 My[website](https://connorwarme.github.io)!  
 🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.   
-🌱 Currently learning TypeScript!  
+🌱 Currently learning React Native!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
 📫 Reach me via <a href="mailto:connor.warme@gmail.com">email</a> or <a href="https://www.linkedin.com/in/connor-warme"><img src="https://github.com/connorwarme/weather/blob/main/src/icons/linkedin.svg" height="20" width="20" align="top"/></a>  
 
@@ -30,7 +30,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
 * built with React + Express.js w/ MongoDB
 * <a href="https://github.com/connorwarme/rop-lair" target="_blank">View repository</a>  
   
-## <a href="https://amitywarme.com" target="_blank">Amity Warme Pro Site</a>  
+## <p>Amity Warme Pro Site - No Longer Active</p>  
 <img 
   src="https://github.com/connorwarme/pro-site/blob/main/src/images/screenshots/pro-home.png?raw=true 'preview'"
   alt="Pro Site"
