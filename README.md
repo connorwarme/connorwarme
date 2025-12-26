@@ -8,7 +8,7 @@ I enjoy building useful content, finding creative solutions, and implementing qu
   
 💻 In development: a couple website projects!    
 ✅ Recently completed mobile app: Corral - Social Calendar, check it out on iOS and Android app stores!   
-🚀 My[website](https://connorwarme.github.io)!  
+🚀 My [website](https://connorwarme.github.io)!  
 🧙 Full stack project: [The Fan Lair](https://connorwarme.github.io/rop-lair/login), a social media app with a LOTR: Rings of Power theme. Built with MERN stack.   
 🌱 Currently learning React Native!  
 🏔️ Mountain adventurer, mostly 🎿 skiing and 🧗‍♂️ rock climbing  
